@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rupeshbhade
 - 👀 I’m interested in @Android
-- 🌱 I’m currently learning Coding
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on @ProWorld
 - 📫 How to reach me :rupeshbhade@gmail.com
 
